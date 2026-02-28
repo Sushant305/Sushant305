@@ -7,15 +7,49 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=600&lines=Computer+Engineer+in+Progress;Artifical+Intelligence+Machine+Learning+Enthusiast;Full+Stack+Developer;Mumbai+University+Student" />
 </p>
 
+
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-- 🎓 BE Computer Engineering Student (Mumbai University)
-- 🤖 Passionate about AI, Machine Learning & Deep Learning
-- 💻 Building Real-World Projects
-- 📚 Currently Studying: ML, NLP, Deep Learning, Distributed Systems
-- 🚀 Goal: Become an AI Engineer
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sushant305&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
+
+<table>
+<tr>
+<td width="55%">
+
+🌟 Began my journey in **Software Development & AI Engineering**
+
+💻 I build real-world projects using **Machine Learning, Deep Learning & Web Technologies**
+
+🚀 Currently working on:
+- Smart Irrigation System 🌱
+- AI Vehicle Speed Tracking 🚗
+- Recipe Discovery using AI 🍲
+
+📚 Strong interest in:
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- NLP  
+- Distributed Systems  
+
+⚡ Skilled in:
+- Python, JavaScript, C  
+- React, Node.js, Firebase  
+- MongoDB  
+
+🔥 Goal: To become a professional **AI Engineer**
+
+</td>
+
+<td width="45%">
+  <img src="[YOUR_IMAGE_LINK_HERE](https://pin.it/56gLlPLR3)" width="100%" style="border-radius:10px;" />
+</td>
+</tr>
+</table>
 
 ---
 
