@@ -46,7 +46,7 @@
 </td>
 
 <td width="45%">
-  <img src="[YOUR_IMAGE_LINK_HERE](https://pin.it/56gLlPLR3)" width="100%" style="border-radius:10px;" />
+  <img src="github photo .jpeg" width="100%" style="border-radius:10px;" />
 </td>
 </tr>
 </table>
