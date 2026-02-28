@@ -22,7 +22,7 @@
 
 🌟 Began my journey in **Software Development & AI Engineering**
 
-💻 I build real-world projects using **Machine Learning, Deep Learning & Web Technologies**
+💻 I build real-world projects using **Web Technologies**
 
 🚀 Currently working on:
 - Smart Irrigation System 🌱
